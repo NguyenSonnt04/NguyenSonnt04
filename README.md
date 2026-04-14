@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="40"> About me
+## <img src="images/about_me.gif" width="40"> About me
 
 <img align="right" alt="Coding" width="400" src="images/Right_Side.gif">
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🤝 Connect with me
+## <img src="images/Connect-with-me.gif" width="40"> Connect with me
 
 <p align="center">
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 
 ---
 
-## 💻 Programming Languages
+## <img src="images/Front_End.gif" width="40"> Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
-## 🛠️ Software
+## <img src="images/Software_Tools.gif" width="40"> Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-## 🤖 AI Tools
+## <img src="images/IDEs.gif" width="40"> AI Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -75,19 +75,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="images/competitive_programming_profile.png" width="40"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenSonnt04&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenSonnt04&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenSonnt04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenSonnt04&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 <p align="center">
