@@ -78,11 +78,11 @@
 ## <img src="images/competitive_programming_profile.png" width="40"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenSonnt04&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenSonnt04&theme=default&hide_border=true&background=FFFFFF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenSonnt04&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenSonnt04&theme=minimal&hide_border=true&bg_color=FFFFFF&color=000000&line=000000&point=000000" />
 </p>
 
 ---
@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
