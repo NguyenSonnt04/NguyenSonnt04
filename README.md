@@ -12,7 +12,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="40"> About me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/10/08/03/19/03-19-26-213_512.gif">
+<img align="right" alt="Coding" width="400" src="images/Right_Side.gif">
 
 - 🏫 I am a student
 - 👨‍💻 I love using Software as a solution for every `Problem`.
