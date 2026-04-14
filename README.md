@@ -17,7 +17,7 @@
 - 🏫 I am a student
 - 👨‍💻 I love using Software as a solution for every `Problem`.
 - 👀 Always `learning new things`.
-- 💥 You can visit [My fb](https://facebook.com).
+- 💥 You can visit [My fb](https://www.facebook.com/sonntt.24/).
 
 <br clear="right"/>
 
