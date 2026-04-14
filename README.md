@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sơn 👋</h1>
+<h1 align="center">Hi , I'm NDSon1 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Always+learning+new+things;Software+as+a+solution" alt="Typing SVG" />
@@ -14,10 +14,10 @@
 
 <img align="right" alt="Coding" width="400" src="images/Right_Side.gif">
 
-- 🏫 I am a student
-- 👨‍💻 I love using Software as a solution for every `Problem`.
-- 👀 Always `learning new things`.
-- 💥 You can visit [My fb](https://www.facebook.com/sonntt.24/).
+- I am a student
+- I love using Software as a solution for every `Problem`.
+- Always `learning new things`.
+- You can visit [My fb](https://www.facebook.com/sonntt.24/).
 
 <br clear="right"/>
 
